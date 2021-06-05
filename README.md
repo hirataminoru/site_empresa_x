@@ -17,4 +17,10 @@ _Melhoria 1_, **melhoria 2**
 * JavaScript
 * MySQL
 
+### Funcionalidades
+
+1. Area de membros
+2. Integracao com outros projetos
+3. Sistema de bonus primeira conta 
+
 
