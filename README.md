@@ -32,7 +32,7 @@ _Melhoria 1_, **melhoria 2**
 
 #### Imagem externa
 
-![Logo JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffedojo.com%2Fjavascript-course-destructuring-assignment%2Flogo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587%2F&psig=AOvVaw1euBAPK3wS6-kG8zaUQuzJ&ust=1622959321338000&source=images&cd=vfe&ved=2ahUKEwin3_ff6P_wAhUJ8ZQKHSCdDTUQr4kDegUIARCzAQ)
+![Logo JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fselfnote.work%2F20210217%2Fprogramming%2Fcreate-javascript-app44%2F&psig=AOvVaw1euBAPK3wS6-kG8zaUQuzJ&ust=1622959321338000&source=images&cd=vfe&ved=2ahUKEwin3_ff6P_wAhUJ8ZQKHSCdDTUQr4kDegUIARC1AQ)
 
 
 
