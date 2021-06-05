@@ -26,4 +26,9 @@ _Melhoria 1_, **melhoria 2**
 2. Integracao com outros projetos
 3. Sistema de bonus primeira conta 
 
+#### Imagem local 
+
+![Foto da flor de cerejeira ](img/IMG_0479.jpg)
+
+
 
