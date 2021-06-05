@@ -36,6 +36,13 @@ _Melhoria 1_, **melhoria 2**
 
 Contribuidor principal : http://www.github.com/matheusbattisti
 
+## Codigo da funcao soma
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
 
 
 
