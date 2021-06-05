@@ -43,6 +43,11 @@ function soma(a,b){
     return a + b;
 }
 ```
+## Lista de tarefas a fazer
+- [ x ] Area de membros
+- [ ] Integracao co outros pagamentos
+- [ ] Sistemas de bonus
+- [ x ] CSS do rodape
 
 
 
