@@ -44,10 +44,10 @@ function soma(a,b){
 }
 ```
 ## Lista de tarefas a fazer
-- [ x ] Area de membros
-- [ ] Integracao co outros pagamentos
-- [ ] Sistemas de bonus
-- [ x ] CSS do rodape
+- [x] Area de membros
+- [] Integracao co outros pagamentos
+- [] Sistemas de bonus
+- [x] CSS do rodape
 
 
 
