@@ -30,9 +30,5 @@ _Melhoria 1_, **melhoria 2**
 
 ![Foto da flor de cerejeira ](img/IMG_0479.jpg)
 
-#### Imagem externa
-
-![Logo JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fselfnote.work%2F20210217%2Fprogramming%2Fcreate-javascript-app44%2F&psig=AOvVaw1euBAPK3wS6-kG8zaUQuzJ&ust=1622959321338000&source=images&cd=vfe&ved=2ahUKEwin3_ff6P_wAhUJ8ZQKHSCdDTUQr4kDegUIARC1AQ)
-
 
 
