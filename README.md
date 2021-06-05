@@ -20,9 +20,9 @@ _Melhoria 1_, **melhoria 2**
 ### Funcionalidades
 
 1. Area de membros
-  1. Login diferente para grupos de cliente
-  2. Desconto especial para grupos de cliente
-  3. CSS diferente para grupos de cliente
+   1. Login diferente para grupos de cliente
+   2. Desconto especial para grupos de cliente
+   3. CSS diferente para grupos de cliente
 2. Integracao com outros projetos
 3. Sistema de bonus primeira conta 
 
